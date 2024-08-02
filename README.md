@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Olá👋
+## Me chamo Laiany,
+## Estou no primeiro ano, e estou estudando na Alura 🔭 
+## Bem-vindos ao meu perfil! 👯 
 <!--
 **laiany-bento/laiany-bento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
